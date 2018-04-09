@@ -13,10 +13,17 @@ Might be useful to malware analyst or other users who want more control of where
 All feedback and suggestions welcomed.
 
 How to use:
-Fork the project
-Build it
-Copy heapbp to your plugins directory
-Start x64dbg
+
+Fork the project.
+
+Build it.
+
+Copy heapbp to your plugins directory.
+
+Start x64dbg.
+
 type `heapbp api` in the commandline to set a heap breakpoint.
+
 lift weights.
+
 
