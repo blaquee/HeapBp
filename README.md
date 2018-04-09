@@ -14,11 +14,9 @@ All feedback and suggestions welcomed.
 
 How to use:
 
-Fork the project.
+Download the HeapBp.dp32 and HeapBp.dp64 binaries from the Releases Page.
 
-Build it.
-
-Copy heapbp to your plugins directory.
+Copy them to their respective plugins folder.
 
 Start x64dbg.
 
